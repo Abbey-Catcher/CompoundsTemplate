@@ -233,7 +233,7 @@ namespace Compounds
             this.groupBox3.Size = new System.Drawing.Size(262, 253);
             this.groupBox3.TabIndex = 33;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Swtich Block";
+            this.groupBox3.Text = "Switch Block";
             // 
             // hurricaneButton
             // 
